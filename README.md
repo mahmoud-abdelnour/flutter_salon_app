@@ -1,4 +1,4 @@
-# certain_salon
+# flutter_salon_app
 
 A new Flutter project.
 
