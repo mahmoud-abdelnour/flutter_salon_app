@@ -5,6 +5,8 @@ A new Flutter project.
 https://www.youtube.com/shorts/QCDxWTQvI1s
 
 
+![Alt Text](./assets/screenshots/1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
