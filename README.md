@@ -5,7 +5,11 @@ A new Flutter project.
 https://www.youtube.com/shorts/QCDxWTQvI1s
 
 
-![Alt Text](./assets/screenshots/1.png)
+###
+
+<img src="./assets/screenshots/1.png" alt="Alt Text" width="250" />
+<img src="./assets/screenshots/2.png" alt="Alt Text" width="250" />
+
 
 ## Getting Started
 
